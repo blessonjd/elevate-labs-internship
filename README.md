@@ -1,0 +1,1 @@
+1. 1st work is about the potential threats involved in the open ports which include the unauthorized access for the attackers that leads to data breaches, malware infections and Distributed Denial of Service attacks.
